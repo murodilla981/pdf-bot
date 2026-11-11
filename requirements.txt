@@ -3,6 +3,10 @@ Flask
 pyTelegramBotAPI
 Flask
 python-pptx
+pyTelegramBotAPI
+Flask
+python-pptx
+google-generativeai
 
 
 
