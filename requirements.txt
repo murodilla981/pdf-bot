@@ -1,5 +1,8 @@
 pyTelegramBotAPI
 Flask
+pyTelegramBotAPI
+Flask
+python-pptx
 
 
 
