@@ -12,7 +12,11 @@ Flask
 python-pptx
 google-generativeai
 requests
-
+pyTelegramBotAPI
+Flask
+python-pptx
+google-generativeai
+requests
 
 
 
